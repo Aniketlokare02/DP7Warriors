@@ -5,5 +5,5 @@
  * @author HP
  *
  */
-module Assignments {
+module MidTest {
 }
